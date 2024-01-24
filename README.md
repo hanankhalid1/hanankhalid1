@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN , NextJs , Node APIs**
 
-- 💬 Ask me about **MERN ,  TypeScript **
+- 💬 Ask me about **MERN , TypeScript**
 
 - 📫 How to reach me **hanankhalid1434@gmail.com**
 
