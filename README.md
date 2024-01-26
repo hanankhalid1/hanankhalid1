@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **hanankhalid1434@gmail.com**
 
-- ⚡ Fun fact **Code poet**
+- ⚡ Fun fact **I weave code like a poetry slam!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
