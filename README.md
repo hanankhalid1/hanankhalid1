@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hanan Khalid</h1>
 <h3 align="center">A passionate software engineer committed to building elegant solutions and exploring innovative coding practices. Join me on the journey to coding excellence in my repositories.</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" height="480">
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="380" height="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanankhalid1&label=Profile%20views&color=0e75b6&style=flat" alt="hanankhalid1" /> </p>
 
